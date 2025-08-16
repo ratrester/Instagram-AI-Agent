@@ -1,5 +1,6 @@
 # Instagram-AI-Agent
 This project automates the workflow for collecting Instagram post likers using PhantomBuster, cleaning up the exported CSV files, and preparing the data for easy integration with other tools or databases.
+
 Features:
 
     Automates PhantomBuster agent runs to scrape Instagram post likers.
@@ -20,5 +21,7 @@ Tech Stack:
 
     Integration instructions for PhantomBuster, Make.com, and Replit.
 
+
 Use Case:
-Perfect for marketers, developers, and researchers looking to automate social media data extraction and streamline cleaning of Instagram engagement data for further analysis or product buildout.
+
+ Perfect for marketers, developers, and researchers looking to automate social media data extraction and streamline cleaning of Instagram engagement data for further analysis or product buildout.
